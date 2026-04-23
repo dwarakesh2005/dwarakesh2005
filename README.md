@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm Dwarakesh 👋<br><br>💻 CSE student — not the brightest, but definitely not a quitter<br><br>🤖 Training my brain like a neural network (slow convergence, but we move)<br>⚛️ Learning quantum computing — but still  fumble with "Ansatz gate" <br>📈 Exploring finance so future me has fewer regrets<br><br>I may not get it instantly, but I stick with it until it works.<br>Or breaks. Then works. Eventually.<br><br>💡 Interests<br><br>* AI/ML (teaching machines while teaching myself)<br>* Quantum Computing (where certainty is optional)<br>* Quant Finance (trying to make numbers and statistics make more  sense)<br><br>🛠️ Current status<br><br>* Debugging > crying > debugging<br>* Turning caffeine into questionable code ☕<br>* Failing forward, consistently<br><br>🌱 Motto: Slow learner. Relentless builder.<br><br>⚡ Fun fact: 90% persistence, 10% Googling the same error twice<br>
 
 
